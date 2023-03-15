@@ -1,0 +1,46 @@
+
+
+.cartbox {
+    z-index: 20;
+    position: fixed;
+    top: 20vh;
+    background-color: white;
+    border: 1px solid black;
+    right: 0;
+    display: block;
+    width: 30%;
+    padding: 20px 20px;
+}
+
+.headings {
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+.cartitems {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    align-items: center;
+}
+
+.close-cart {
+    margin: 10px 15px;
+    padding: 2px 5px;
+    margin-left: 90%;
+background-color: lightcoral;
+border-color: lightcoral;
+}
+
+.remove-item {
+    margin-left: 10px;
+    background-color: rgb(250, 50, 50);
+    border: 1px solid rgb(250, 50, 50);
+}
+
+.total-price {
+    font-size: 2rem;
+    margin-left: 60%;
+}

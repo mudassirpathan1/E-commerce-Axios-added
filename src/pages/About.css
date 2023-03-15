@@ -1,0 +1,22 @@
+.about-image{
+    float: left;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    padding: auto;
+    margin: 20px;
+}
+
+.content {
+  width: 60%;
+  margin: auto;
+  padding: 20px;
+
+}
+h1 {
+    text-align: center;
+    padding: 20px 0 15px;
+}
+footer {
+  background-color: aquamarine;
+}

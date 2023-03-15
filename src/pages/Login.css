@@ -1,0 +1,41 @@
+.login-box {
+    padding-top: 200px;
+}
+
+.login-form {
+    border: 1px solid black;
+    padding: 10px 20px 25px;
+    margin: auto;
+    width: 30%;
+    border-radius: 5px;
+    background-color:rgb(229, 66, 199);
+    color:white;
+}
+
+.login-form input {
+
+    display: block;
+    margin-bottom: 10px;
+}
+.login-form label {
+    display: block;
+    padding-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    
+}
+.login-btn {
+    margin-top: 10px;
+    padding: 5px 5px;
+    background-color: rgb(55, 195, 30);
+    border: 1px solid white;
+    border-radius: 5px;
+    display: block;
+}
+
+.switch-btn {
+    border: none;
+    background-color: grey;
+    color: white;
+    margin-top: 10px;
+}

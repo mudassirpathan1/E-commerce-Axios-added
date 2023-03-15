@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+}
+.products {
+  display: inline-block;
+  padding: 20px;
+ margin: auto;
+ margin-left: 15%;
+ text-align: center;
+}
+
+.cart {
+  
+  display: flex;
+  width: 20%;
+  margin-left: 25px;
+}
+
+.cart h3 {
+  margin-right: 60%;
+}
+
+.title {
+  background-color: grey;
+  color: white;
+  font-size: xx-large;
+  margin: 0%;
+  border: 1px solid white;
+  text-align: center;
+  padding: 30px 0 20px;
+}
+.category {
+  text-align: center;
+  font-weight: 900;
+  font-size: 2rem;
+}
+
+.button {
+  cursor: pointer;
+margin: auto;
+margin-left: 200px;
+margin-right: 0;
+
+}

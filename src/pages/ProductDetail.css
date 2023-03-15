@@ -1,0 +1,21 @@
+.images {
+    display: grid;
+    margin-top: 150px;
+    margin-left: 100px;
+    width: 50%;
+    grid-template-columns: 200px 200px 200px 200px ;
+justify-content: space-around;
+}
+
+.images img {
+    width: 200px;
+    height: 200px;
+    margin: 15px;
+}
+.images img:hover {
+    transform: scale(1.5);
+}
+
+h1,h2,p {
+    margin-left: 15px;
+}

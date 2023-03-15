@@ -1,0 +1,33 @@
+.user-form {
+    display: block;
+    margin: auto;
+    width: 30%;
+    height: 200px;
+    border: 1px solid black;
+    padding: 15px 10px;
+    border-radius: 5px;
+    background-color: grey;
+}
+.form-box {
+    padding-top: 200px;
+    
+}
+
+
+.user-form label {
+    font-size: 1.2rem;
+    display: block;
+    padding: 5px;
+}
+.user-form input {
+    width: 50%;
+}
+
+.submit-btn {
+    display: block;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: rgb(52, 52, 219);
+    border: 1px solid rgb(52, 52, 219);
+    padding: 5px 5px;
+}

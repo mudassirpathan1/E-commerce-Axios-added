@@ -1,0 +1,35 @@
+
+.headbar {
+    display: flex;
+    padding-bottom: 10px;
+    position: fixed;
+    width: 100%;
+    background: rgb(159, 51, 156);
+    color: white;
+    margin: 0;
+    border-bottom: 1px solid white;
+    padding-top: 10px;
+}
+
+.header {
+    display: flex;
+    width: 90%;
+    padding-left: 10%;
+    font-size: large;
+    font-weight: 700;
+}
+.header div {
+    padding: 0 50px;
+}
+.header div a {
+    text-decoration: none;
+    color: white;
+}
+/* .cart {
+    width: 10%;
+} */
+div a.active {
+    color: lightgreen;
+    padding-bottom: 5px;
+    border-bottom: 4px solid white;
+}

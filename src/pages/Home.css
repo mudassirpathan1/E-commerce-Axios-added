@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+}
+
+.home-page {
+    background-color: rgb(146, 193, 228);
+    padding-bottom: 50px;
+}
+.home-page h1 {
+    font-size: 6rem;
+    color: white;
+    padding: 50px;
+    
+}
+
+.latest-album {
+    display: block;
+    margin: auto;
+    background-color: grey;
+    color: white;
+    font-size: 1.5rem;
+    padding: 15px 10px;
+    cursor: pointer;
+    border: 1px solid aquamarine;
+}
+
+.play-button {
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+    border: 1px solid aquamarine;
+    border-radius: 50%;
+    padding: 25px;
+    color: aquamarine;
+    font-size: 1.5rem;
+    background-color: grey;
+    cursor: pointer;
+
+}
+
+.tour-title {
+
+    font-size: 2rem;
+    padding: 50px;
+    font-weight: 900;
+}
+.tour-item {
+display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    align-items: center;
+    width: 60%;
+    margin: auto;
+    padding-bottom: 10px;
+    border-bottom: 1px solid black;
+}
+
+ footer {
+    color: white;
+    padding: 30px 15px;
+    font-size: 1.5rem;    
+ }
+.tour-list {
+    margin-bottom: 50px;
+}
+
+.buy-btn {
+    background-color: rgb(28, 195, 39);
+    border-color: rgb(217, 117, 54);
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 16px;
+    color: white;
+
+}

@@ -1,0 +1,13 @@
+
+button {
+    -ms-flex-align: center;
+    column-gap:normal;
+    cursor: pointer;
+    margin-right:25px;
+    border-radius: 5px;
+    padding: 10px 9px;
+    color: rgb(14, 10, 10);
+    background-color: rgb(233, 231, 228);
+    border: 1px solid rgb(232, 53, 53);
+}
+
